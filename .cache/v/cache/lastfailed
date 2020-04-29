@@ -1,0 +1,12 @@
+{
+  "tests.py::test_avg_list": true, 
+  "tests.py::test_binary_search": true, 
+  "tests.py::test_gc_content": true, 
+  "tests.py::test_get_global_string": true, 
+  "tests.py::test_one_hot_encoding": true, 
+  "tests.py::test_print_args_info": true, 
+  "tests.py::test_recursive_fibonacci": true, 
+  "tests.py::test_reverse_str": true, 
+  "tests.py::test_sum_args": true, 
+  "tests.py::test_sum_list": true
+}
